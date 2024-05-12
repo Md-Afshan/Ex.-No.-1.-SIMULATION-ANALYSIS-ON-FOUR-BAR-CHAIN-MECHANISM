@@ -1,6 +1,8 @@
-# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## AIM:
+## DATE: 08-04-2024
+
+## AIM: 
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
